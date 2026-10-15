@@ -86,9 +86,7 @@ Predictions should not be treated as definitive judgments about individual stude
 This project demonstrates a practical application of KNN to student performance data. It strengthens understanding of supervised learning, feature preparation, distance-based classification, and model evaluation.
 
 ## Author
-
 Anyagu Chuka
 
-## Project Type
-
-Supervised Machine Learning | Classification (if applicable)
+## project type
+Supervised Machine Learning 
